@@ -6,6 +6,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <CodeAnalysisRuleSet>../settings.ruleset</CodeAnalysisRuleSet>
+        <RootNamespace>lecture_1</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

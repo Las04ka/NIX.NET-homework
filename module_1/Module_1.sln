@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lecture_3", "lecture_3\lecture_3.csproj", "{8062CD6E-A9DD-460F-BEBC-F41BF94B9414}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture_3", "Lecture_3\Lecture_3.csproj", "{8062CD6E-A9DD-460F-BEBC-F41BF94B9414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lecture_1", "lecture_1\lecture_1.csproj", "{544D1CCB-165C-4266-A196-8977CB1A7A98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture_1", "Lecture_1\Lecture_1.csproj", "{544D1CCB-165C-4266-A196-8977CB1A7A98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lecture_2", "lecture_2\lecture_2.csproj", "{89D0A38B-E6B4-46D9-B421-BCDA9517A698}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture_2", "Lecture_2\Lecture_2.csproj", "{89D0A38B-E6B4-46D9-B421-BCDA9517A698}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice_1", "practice_1\practice_1.csproj", "{0CB4D180-AC62-4360-92EE-DB8AC83AD3CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_1", "Practice_1\Practice_1.csproj", "{0CB4D180-AC62-4360-92EE-DB8AC83AD3CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
