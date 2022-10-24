@@ -194,8 +194,6 @@ UpgradeLog.htm
 FakesAssemblies
 
 ### MonoDevelop ###
-
-.pidb
 .userprefs
 
 ### Windows ###
@@ -289,3 +287,4 @@ launchSettings.json
 .terraform
 terraform.tfstate
 terraform.tfstate.backup
+/Folder.DotSettings.user
