@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Lecture_1;
 
-Console.WriteLine("Hello, World!");
+Starter.Run();
