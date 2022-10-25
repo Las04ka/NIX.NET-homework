@@ -2,18 +2,18 @@
 
 public static class Actions
 {
-    public static Result Info()
+    public static Result CreateDatabase()
     {
-        return new Result();
+        return new Result(nameof(CreateDatabase), "Start method", Result.ResultType.Info);
     }
 
-    public static Result Warning()
+    public static Result ConnectToDatabase()
     {
-        return new Result();
+        return new Result(nameof(ConnectToDatabase), "Skipped logic in method", Result.ResultType.Warning);
     }
 
-    public static Result Error()
+    public static Result DropDatabase()
     {
-        return new Result();
+        return new Result(nameof(DropDatabase), "I broke a logic", Result.ResultType.Error, false);
     }
 }
